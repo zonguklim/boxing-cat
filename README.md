@@ -1,3 +1,3 @@
-# Boxing + Exciting
+# boxing + exciting
 
-복싱 사이트
+복싱데이터
